@@ -4,7 +4,7 @@
   import gsap from "gsap";
   import LocationPanel from "../components/LocationPanel";
   import { GoPersonFill } from "react-icons/go";
-  import VehiclePanel from "../components/vehiclePanel";
+  import VehiclePanel from "../components/VehiclePanel";
   import ConfirmRide from "../components/ConfirmRide";
   import WaitingForDriver from "../components/WaitingForDriver";
   import axios from "axios";
